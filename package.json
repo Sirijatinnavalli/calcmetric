@@ -1,0 +1,10 @@
+{
+    "name":"calcmetric",
+    "version":"0.18.0",
+    "main":"metrics",
+    "repository":{
+        "type":"git",
+        "url":
+
+    }
+}
